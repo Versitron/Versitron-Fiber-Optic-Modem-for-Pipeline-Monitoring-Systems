@@ -1,6 +1,6 @@
 # Versitron | Fiber Optic Modem for Pipeline Monitoring Systems | Industrial Fiber Optic Communication Systems | Fiber Optic Modem for Telecom Backhaul Networks | Fiber Optic Modem for Energy Sector Communication
 
-Versitron offers rugged, high-reliability **fiber-optic modems and micromodem solutions** designed for demanding industrial, telecom, and energy-sector communication networks. Our product range supports **pipeline monitoring**, **industrial communications**, **telecom backhaul**, and **energy infrastructure communication** — delivering secure, long-distance fiber links with robust performance.
+Versitron offers rugged, high-reliability **fiber-optic modems and micromodem solutions** designed for demanding industrial, telecom, and energy-sector communication networks. Our product range supports **pipeline monitoring**, **industrial communications**, **telecom backhaul**, and **energy infrastructure communication**  delivering secure, long-distance fiber links with robust performance.
 
 ---
 
@@ -48,7 +48,7 @@ Perfect for long-haul links, remote exchanges, and distributed network infrastru
 **Secure and resilient fiber communication for energy grid, transmission, and control systems.**
 
 - Converts control and telemetry signals from substations, power plants, or grid infrastructure to fiber transmission  
-- Fiber ensures immunity to EMI, surges, and environmental interference — critical in energy environments  
+- Fiber ensures immunity to EMI, surges, and environmental interference critical in energy environments  
 - Supports remote monitoring, grid automation, SCADA, and protection systems over long distances  
 - Adds reliability and security to communication lines handling sensitive energy data  
 
